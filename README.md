@@ -20,3 +20,5 @@ Collect as many apples as possible to increase the score. The game ends when the
 
 <img width="604" alt="snakeGame screenshot" src="https://github.com/Guyadler22/snakeGame/assets/83019555/3e53a0a0-0c74-4505-9879-d5290f70e6fa">
 
+
+![snakeGame%20video](https://github.com/Guyadler22/snakeGame/assets/83019555/7bc2cce7-bbab-432b-a9b3-108c5d60ca9c)
